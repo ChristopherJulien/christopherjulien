@@ -17,6 +17,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christopherjulien&hide=makefile,cmake)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christopherjulien&hide=makefile,cmake&layout=donut-vertical)](https://github.com/christopherjulien/github-readme-stats)
+
+
 
 
 
